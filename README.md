@@ -1,7 +1,6 @@
 # DevRel
 Resources and Tools for DevRel Teams
 
-https://form.typeform.com/c/U7P2LGWz?typeform-medium=embed-snippet
 ---
 
 
